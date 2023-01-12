@@ -32,5 +32,7 @@ class Kalkulaator: # Kalkulaatori klass
             print("Sisestatud arvul ei ole võimalik leida ruutjuurt") # prindib välja veakoodi.
         return(math.sqrt(a)) # tagastab ümardatud arvu
 
+kalk = Kalkulaator() # tegemist on objektiga, mis pärib kõik Kalkulaatori omadused.
+
 
 

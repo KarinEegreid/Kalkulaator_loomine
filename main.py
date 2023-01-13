@@ -1,5 +1,5 @@
 #Kalkulaatori loomine Karl Paju IS22
-import math
+import math # Mathi importimine
 
 class Kalkulaator: # Kalkulaatori klass
     def __init__(self):  # init meetodi kasutamine
